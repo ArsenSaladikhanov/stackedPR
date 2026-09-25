@@ -1,1 +1,1 @@
-// useDeposit(): POST /api/deposit  { amountCents: amount }
+// useDeposit(): POST /api/deposit  { amountCents: amount * 100 }
